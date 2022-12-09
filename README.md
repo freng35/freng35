@@ -1,7 +1,7 @@
 ### Love Python more than coffee
 
 
-- 🔭 I’m currently working on new bot on telegramm
+- 🔭 I’m currently working on new bot on telegram
 - 🌱 I’m currently learning python as always
 
 
